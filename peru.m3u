@@ -11,3 +11,34 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmogJRnZl4A6QNEyhteAs2IUwSyZu340XfwU9iKyOylWO)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 ,canal atv mas
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+#EXTINF:-1 tvg-id=" 27 "tvg-logo="https://www.m3u.cl/logo/41_Hatun_TV.jpg", 27 peru - canal Best Cable Hatun Tv | PE
+https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
+
+#EXTM3U x-tvg-url="" tv-test="PE.m3u"
+
+#EXTINF:0 type="estream" channelId="-1" name="PE:Anime Zone TV" group="PERU" logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png" tvg-country="PE", Anime Zone TV
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/qlWUuAm.png" group-title="Legislative",Congreso TV [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CongresodelaRepúblicadelPerúTVenvivo/live
+
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews en Español (720p)
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
+https://cu.onliv3.com/livevd1/user2.m3u8
+
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (298p) [Not 24/7]
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-id="RPPTVNoticias.pe" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rpp_tv_pe.png" group-title="News",RPP (480p) [Not 24/7]
+http://38.131.11.9:1080/play/a0d8
+
+#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",TVG América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
