@@ -42,3 +42,8 @@ http://38.131.11.9:1080/play/a0d8
 
 #EXTINF:-1 tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",TVG América (720p)
 https://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 exitosa low
+https://cu.onliv3.com/livevd1/user2_low/index.m3u8
+
+#EXTINF:-1 ttps://livev2-latina-mdstrm.secure2.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_4.m3u8
