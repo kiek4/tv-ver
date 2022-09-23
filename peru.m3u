@@ -14,11 +14,6 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-id=" 27 "tvg-logo="https://www.m3u.cl/logo/41_Hatun_TV.jpg", 27 peru - canal Best Cable Hatun Tv | PE
 https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
 
-#EXTM3U x-tvg-url="" tv-test="PE.m3u"
-
-#EXTINF:0 type="estream" channelId="-1" name="PE:Anime Zone TV" group="PERU" logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png" tvg-country="PE", Anime Zone TV
-http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
@@ -40,14 +35,7 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="RPPTVNoticias.pe" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rpp_tv_pe.png" group-title="News",RPP (480p) [Not 24/7]
 http://38.131.11.9:1080/play/a0d8
 
-#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",TVG América (720p)
-https://america-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 exitosa low
-https://cu.onliv3.com/livevd1/user2_low/index.m3u8
-
-#EXTINF:-1 canal dos 
-https://livev2-latina-mdstrm.secure2.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_4.m3u8
+#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",TVG América .net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_4.m3u8
 
 #EXTINF:-1 canal 7
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
