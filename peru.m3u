@@ -11,111 +11,111 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmogJRnZl4A6QNEyhteAs2IUwSyZu340XfwU9iKyOylWO)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 ,canal atv mas
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
-#EXTINF:-1 tvg-id=" 27 "tvg-logo="https://www.m3u.cl/logo/41_Hatun_TV.jpg", 27 peru - canal Best Cable Hatun Tv | PE
+#EXTINF:-1 ,tvg-id=" 27 "tvg-logo="https://www.m3u.cl/logo/41_Hatun_TV.jpg", 27 peru - canal Best Cable Hatun Tv | PE
 https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
+#EXTINF:-1 ,tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/qlWUuAm.png" group-title="Legislative",Congreso TV [Not 24/7]
+#EXTINF:-1 ,tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/qlWUuAm.png" group-title="Legislative",Congreso TV [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CongresodelaRepúblicadelPerúTVenvivo/live
 
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews en Español (720p)
+#EXTINF:-1 ,tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews en Español (720p)
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
+#EXTINF:-1 ,tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
 https://cu.onliv3.com/livevd1/user2.m3u8
 
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
+#EXTINF:-1 ,tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
 
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (298p) [Not 24/7]
+#EXTINF:-1 ,tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (298p) [Not 24/7]
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-id="RPPTVNoticias.pe" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rpp_tv_pe.png" group-title="News",RPP (480p) [Not 24/7]
+#EXTINF:-1 ,tvg-id="RPPTVNoticias.pe" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rpp_tv_pe.png" group-title="News",RPP (480p) [Not 24/7]
 http://38.131.11.9:1080/play/a0d8
 
-#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",TVG América .net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_4.m3u8
+#EXTINF:-1 ,tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",TVG América .net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_4.m3u8
 
-#EXTINF:-1 canal 7
+#EXTINF:-1 ,canal 7
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1 canal pucallpa
+#EXTINF:-1 ,canal pucallpa
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
-#EXTINF:-1 canal atv
+#EXTINF:-1 ,canal atv
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 
-#EXTINF:-1 26 arg
+#EXTINF:-1 ,26 arg
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 chosica
+#EXTINF:-1 ,chosica
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:-1 peru
+#EXTINF:-1 ,peru
 http://190.108.83.142:8000/play/a007/index.m3u8
 
-#EXTINF:-1 dw 
+#EXTINF:-1 ,dw 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 enlace juvenil
+#EXTINF:-1 ,enlace juvenil
 https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
 
-#EXTINF:-1 eruo
+#EXTINF:-1 ,eruo
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 fuego
+#EXTINF:-1 ,fuego
 http://190.108.83.142:8000/play/a003/index.m3u8
 
-#EXTINF:-1 global
+#EXTINF:-1 ,global
 http://190.108.83.142:8000/play/a00x/index.m3u8
 
-#EXTINF:-1 antiguas movies usa
+#EXTINF:-1 ,antiguas movies usa
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 
-#EXTINF:-1 novelisima
+#EXTINF:-1 ,novelisima
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
-#EXTINF:-1 ovacion
+#EXTINF:-1 ,ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 pbo
+#EXTINF:-1 ,pbo
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ/live
 
-#EXTINF:-1 piura
+#EXTINF:-1 ,piura
 http://190.108.83.142:8000/play/a00d/index.m3u8
 
-#EXTINF:-1 platzi
+#EXTINF:-1 ,platzi
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
-#EXTINF:-1 pluto euro
+#EXTINF:-1 ,pluto euro
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 pymes tv
+#EXTINF:-1 ,pymes tv
 https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
 
-#EXTINF:-1 retro
+#EXTINF:-1 ,retro
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 retro pelis
+#EXTINF:-1 ,retro pelis
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 retro musicas
+#EXTINF:-1 ,retro musicas
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 sofy tv
+#EXTINF:-1 ,sofy tv
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 solar
+#EXTINF:-1 ,solar
 https://tna5.bozztv.com/televisionsolar/index.m3u8
 
-#EXTINF:-1 taste
+#EXTINF:-1 ,taste
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvperu
+#EXTINF:-1 ,tvperu
 http://190.108.83.142:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 peru inter
+#EXTINF:-1 ,peru inter
 http://cdnh4.iblups.com/hls/irtp.m3u8
 
 #EXTINF:-1 peru noti
